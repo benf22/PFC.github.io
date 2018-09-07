@@ -21,6 +21,8 @@ As a first step we developed a criterion that can measure a feature and, determi
 ## TSD - Text Speech & Dialouge conferance
 _Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018_ [link](aaa)
 
+![](sivan_s1_p1)
+
 Our poster:
 ![poster](TSD_poster.jpg "Our poster")
 
