@@ -2,6 +2,38 @@
 layout: default
 ---
 
+# What is prosody?
+**Prosody** can be defined as the additional information in a speech utterance other than the actual content, for example: intonation and melody of a sentance, the rythm, loudnees, timbre and quality of the voice and much more.
+
+When listening and understanding to prosody, we can understand the subtext of the sentance, for example:
+     1. Attitudes and intentions such as : irony, sarcasm, question, command
+     2. Emotional states of the speaker
+     3. Medical conditions such as neurological diseases
+     
+# What we are trying to do?
+We explore the question if here is a general method to determine whether a feature is prosodic?
+We are trying to create a "Prosodic language" that can be a common ground to compare between different features and ranking them according the "amount" of prosodic information they carry.
+## Our first steps...
+As a first step we developed a criterion that can measure a feature and, determine whether it convey prosodic information and provide a numerical score for that feature
+
+
+# Publications
+## TSD - Text Speech & Dialouge conferance
+_Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018_ [link](aaa)
+
+Our poster:
+![poster](TSD_poster.jpg "Our poster")
+
+
+
+
+
+
+
+
+
+```
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -21,7 +53,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
-
+```
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -36,7 +68,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
+```
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -113,7 +145,7 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
+```
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
