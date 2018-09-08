@@ -28,9 +28,9 @@ _Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion Fo
 <center>
 <table>
   <tr>
-       <td style="text-align: center; vertical-align: middle;">Speaker </td>
-       <td style="text-align: center; vertical-align: middle;">Prosody 1 <br> <b>Neuteal</b> </td>
-       <td style="text-align: center; vertical-align: middle;">Prosody 2 <b>Question</b></td>
+       <td style="text-align: center; vertical-align: middle;">Speaker / Phrase</td>
+       <td style="text-align: center; vertical-align: middle;">Prosody 1 <br> <b>Neutral</b> </td>
+       <td style="text-align: center; vertical-align: middle;">Prosody 2 <br><b>Question</b></td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">Female, age: 34, phrase 1</td>
