@@ -73,7 +73,7 @@ Here are some examples from our self-collected Hebrew data-bases of three differ
 # Our Work
 ## TSD - Text Speech & Dialouge Conference, Czech Republic, 2018
 In this conference we are going to introduce the first step of our research: a criterion that we developed, which can measure a feature and determine whether it conveys prosodic information, and provides a numerical score for that feature. 
-* **The paper**: [_Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018_ ](aaa)
+* **The paper**: [Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018](aaa)
 * **The Poster**
 
 ![poster](TSD_poster.jpg "Our poster")
