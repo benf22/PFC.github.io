@@ -1,5 +1,5 @@
-title: Prosodic Feature Criterion (PFC)
-description: A new way to determine whether a speech feature carry prosodic information
+title: Prosodic Features' Criterion (PFC)
+description: A new way to determine whether a speech-related feature carries prosodic information
 show_downloads: false
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-leap-day
