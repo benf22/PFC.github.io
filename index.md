@@ -77,8 +77,8 @@ Here are some examples from our self-collected Hebrew data-bases for 3 different
 ## The first step
 We developed a criterion that can measure a feature and, determine whether it convey prosodic information and provide a numerical score for that feature. This work was published in **TSD - Text Speech & Dialouge conferance, 2018**
 
-..* **The paper**: _Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018_ [link](aaa)
-..* **The Poster**
+* **The paper**: _Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018_ [link](aaa)
+* **The Poster**
 
 ![poster](TSD_poster.jpg "Our poster")
 
