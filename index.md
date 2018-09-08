@@ -59,7 +59,7 @@ Here are some examples from our self-collected Hebrew data-bases of three differ
       <audio controls>
       <source src="sivan_s3_p1.mp3" type="audio/mpeg">
       Browser doesn't support audio element
-      </audio
+      </audio>
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
