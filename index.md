@@ -16,7 +16,7 @@ We are trying to create a **"Prosodic language"** that can be a common ground to
 
 # How does it sounds
 Here are some examples from our self-collected Hebrew data-bases for 3 different phrases with 2 kind of prosodies: neutral and question:
-
+<dl>
 <center>
 <table>
   <tr>
@@ -70,7 +70,7 @@ Here are some examples from our self-collected Hebrew data-bases for 3 different
     </td>          
   </tr>
 </table>
-</html>
+</dl>
      
 # Our Work
 ## The first step
