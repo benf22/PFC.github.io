@@ -31,6 +31,7 @@ _Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion Fo
        <td style="text-align: center; vertical-align: middle;">Speaker </td>
        <td style="text-align: center; vertical-align: middle;">Prosody 1 <br> <b>Neuteal</b> </td>
        <td style="text-align: center; vertical-align: middle;">Prosody 2 <b>Question</b></td>
+  </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">Female, age: 34, phrase 1</td>
     <td style="text-align: center; vertical-align: middle;">
@@ -45,7 +46,8 @@ _Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion Fo
       Browser doesn't support audio element
       </audio>
     </td>     
-       
+  </tr>
+  <tr>   
     <td style="text-align: center; vertical-align: middle;">Male, age: 55, phrase 2</td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
@@ -59,7 +61,8 @@ _Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion Fo
       Browser doesn't support audio element
       </audio>
     </td>   
-       
+  </tr>
+  <tr>
     <td style="text-align: center; vertical-align: middle;">Female, age: 21, phrase 3</td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
