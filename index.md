@@ -31,7 +31,7 @@ _Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion Fo
     <td style="text-align: center; vertical-align: middle;">Texture:</td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
-      <source src="sivan_s1_p1.wav" type="audio/mpeg">
+      <source src="sivan_s1_p1.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
       </audio>
     </td>
