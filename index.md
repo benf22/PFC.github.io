@@ -79,3 +79,16 @@ In this conference we are going to introduce the first step of our research: a c
 ![poster](TSD_poster.jpg "Our poster")
 
 
+## ICSEE, Israel, 2018
+In this conference we are going to introduce a validation of the PFC that shows usage of a different feature set. We replaced our 48 original features with 4,500 features that were extraced using the OpenSMILE tool kit.
+More details and the full paper will be uploaded soon.
+
+## Ongoing Research
+
+These days we are still developing and validating the PFC using an extended database, including different languages and multiple prosodies. We also formed a stronger mathematical formulation for the PFC.
+Additional information will be uploaded in the near future.
+
+# Hebrew Dataset
+
+
+
