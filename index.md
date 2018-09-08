@@ -2,27 +2,20 @@
 layout: default
 ---
 
-# What is prosody?
+# What is prosody
 **Prosody** can be defined as the additional information in a speech utterance other than the actual content, for example: intonation and melody of a sentance, the rythm, loudnees, timbre and quality of the voice and much more.
 
 When listening and understanding to prosody, we can understand the subtext of the sentance, for example:
-     1. Attitudes and intentions such as : irony, sarcasm, question, command
-     2. Emotional states of the speaker
-     3. Medical conditions such as neurological diseases
+1. Attitudes and intentions such as : irony, sarcasm, question, command
+2. Emotional states of the speaker
+3. Medical conditions such as neurological diseases
      
-# What we are trying to do?
-We explore the question if here is a general method to determine whether a feature is prosodic?
-We are trying to create a "Prosodic language" that can be a common ground to compare between different features and ranking them according the "amount" of prosodic information they carry.
-## Our first steps...
-As a first step we developed a criterion that can measure a feature and, determine whether it convey prosodic information and provide a numerical score for that feature
+# What we are trying to do
+We explore the question if here is a general method to determine **whether a feature is prosodic?**
+We are trying to create a **"Prosodic language"** that can be a common ground to compare between different features and ranking them according the "amount" of prosodic information they carry.
 
-
-# Publications
-## TSD - Text Speech & Dialouge conferance
-_Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018_ [link](aaa)
-
-!audio[ title ](  ){ size=10 duration=10  }
-
+# How does it sounds
+Here are some examples from our self-collected Hebrew data-bases for 3 different phrases with 2 kind of prosodies: neutral and question:
 {::nomarkdown}
 
 <center>
@@ -80,14 +73,22 @@ _Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion Fo
 </table>
 {:/}
      
-     
-Our poster:
+# Our Work
+## The first step
+We developed a criterion that can measure a feature and, determine whether it convey prosodic information and provide a numerical score for that feature. This work was published in **TSD - Text Speech & Dialouge conferance, 2018**
+..* **The paper**: _Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018_ [link](aaa)
+..* **The Poster**
+
 ![poster](TSD_poster.jpg "Our poster")
 
 
 
+## ICSEE 2018
 
+fffffffffffff
+## More validation tests
 
+fffffffffff
 
 
 
