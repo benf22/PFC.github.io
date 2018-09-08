@@ -70,7 +70,7 @@ Here are some examples from our self-collected Hebrew data-bases for 3 different
     </td>          
   </tr>
 </table>
-
+</html>
      
 # Our Work
 ## The first step
