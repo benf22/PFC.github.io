@@ -16,12 +16,12 @@ We are trying to create a **"Prosodic language"** that can be a common ground to
 
 # How does it sound
 Here are some examples from our self-collected Hebrew data-bases of three different phrases with two types of prosodies: neutral and question:
-<dl>
+
 <table>
   <tr>
        <td style="text-align: center; vertical-align: middle;">Speaker / Phrase</td>
        <td style="text-align: center; vertical-align: middle;">Prosody 1 <br> <b>Neutral</b> </td>
-       <td style="text-align: center; vertical-align: middle;">Prosody 2 <br><b>Question</b></td>
+       <td style="text-align: center; vertical-align: middle;">Prosody 2 <br> <b>Question</b></td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">Female, age: 21, Phrase 1</td>
@@ -69,24 +69,24 @@ Here are some examples from our self-collected Hebrew data-bases of three differ
     </td>          
   </tr>
 </table>
-</dl>
-     
+    
 # Our Work
-## TSD - Text Speech & Dialouge Conferance, the check republic, 2018
-In this conference we are going to intreduce our first step. A criterion that we developed, that can measure a feature and, determine whether it convey prosodic information and provide a numerical score for that feature. 
+## TSD - Text Speech & Dialouge Conference, Czech Republic, 2018
+In this conference we are going to introduce the first step of our research: a criterion that we developed, which can measure a feature and determine whether it conveys prosodic information, and provides a numerical score for that feature. 
 * **The paper**: [_Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018_ ](aaa)
 * **The Poster**
 
 ![poster](TSD_poster.jpg "Our poster")
 
 
-## ICSEE 2018
-In this conference we are going to intreduce a validation of PFC that shows usage of different feature set. We replaced our 48 original features with 4,500 features that was taken from OpenSMILE tool kit.
-More details and the actual paper will be uploaded soon.
+## ICSEE, Israel, 2018
+In this conference we are going to introduce a validation of the PFC that shows usage of a different feature set. We replaced our 48 original features with 4,500 features that were extraced using the OpenSMILE tool kit.
+More details and the full paper will be uploaded soon.
 
-## More validation tests
+## Ongoing Research
 
-These days we are still developing and validate the PFC with extended database, including different languages and mulriple prosodies. We are also formed a stronger mathematical formalition for the PFC.
+These days we are still developing and validating the PFC using an extended database, including different languages and multiple prosodies. We also formed a stronger mathematical formulation for the PFC.
+Additional information will be uploaded in the near future.
 
 # Hebrew Dataset
 
