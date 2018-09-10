@@ -71,9 +71,9 @@ Here are some examples from our self-collected Hebrew data-bases of three differ
   </tr>
 </table>
     The phrases:<br>
-    Phrase 1: /BO/  /LA/  /TSA/ /BIM/ = come to the turtles
-    Phrase 2: /GAM/ /PO/  /AR/  /MON/ = there is a palace here too
-    Phrase 3: /EN/  /KAN/ /BO/  /NIM/ = there are no beavers here
+    Phrase 1: /BO/  /LA/  /TSA/ /BIM/ = come to the turtles<br>
+    Phrase 2: /GAM/ /PO/  /AR/  /MON/ = there is a palace here too<br>
+    Phrase 3: /EN/  /KAN/ /BO/  /NIM/ = there are no beavers here<br>
 
     
 # Our Work
