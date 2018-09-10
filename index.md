@@ -24,11 +24,13 @@ Here are some examples from our self-collected Hebrew data-bases of three differ
        <td style="text-align: center; vertical-align: middle;">Prosody 2 <br> <b>Question</b></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">Female, age: 21, Phrase 1</td>
+    <td style="text-align: center; vertical-align: middle;">Female, age: 21 <br>Phrase 1 <br>/BO/ /LA/ /TSA/ /BIM/<br> 
+ (come to the turtles)
+</td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
       <source src="noa_s1_p1.mp3" type="audio/mpeg">
-      Browser doesn't support audio element
+      Browser doesn't support audio element 
       </audio>
     </td>
     <td style="text-align: center; vertical-align: middle;">
