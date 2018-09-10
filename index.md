@@ -79,7 +79,7 @@ Phrase 3: /EN/  /KAN/ /BO/  /NIM/ = there are no beavers here<br>
 # Our Work
 ## TSD - Text Speech & Dialouge Conference, Czech Republic, 2018
 In this conference we are going to introduce the first step of our research: a criterion that we developed, which can measure a feature and determine whether it conveys prosodic information, and provides a numerical score for that feature. 
-* **The paper**: [Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018](aaa)
+* **The paper**: [Ben Fishman, Itshak Lapidot, and Irit Opher, “Prosodic Features' Criterion For Hebrew”, Proceedings of Text, Speech, Dialogue-TSD conference, 2018](https://link.springer.com/chapter/10.1007/978-3-030-00794-2_52)
 * **The Poster**
 
 ![poster](TSD_poster.jpg "Our poster")
