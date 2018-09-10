@@ -24,8 +24,7 @@ Here are some examples from our self-collected Hebrew data-bases of three differ
        <td style="text-align: center; vertical-align: middle;">Prosody 2 <br> <b>Question</b></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">Female, age: 21 <br>Phrase 1 <br>/BO/ /LA/ /TSA/ /BIM/<br> 
- (come to the turtles)
+    <td style="text-align: center; vertical-align: middle;">Female, age: 21 <br>Phrase 1 
 </td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
@@ -71,6 +70,11 @@ Here are some examples from our self-collected Hebrew data-bases of three differ
     </td>          
   </tr>
 </table>
+    The phrases:<br>
+    Phrase 1: /BO/  /LA/  /TSA/ /BIM/ = come to the turtles
+    Phrase 2: /GAM/ /PO/  /AR/  /MON/ = there is a palace here too
+    Phrase 3: /EN/  /KAN/ /BO/  /NIM/ = there are no beavers here
+
     
 # Our Work
 ## TSD - Text Speech & Dialouge Conference, Czech Republic, 2018
@@ -89,8 +93,3 @@ More details and the full paper will be uploaded soon.
 
 These days we are still developing and validating the PFC using an extended database, including different languages and multiple prosodies. We also formed a stronger mathematical formulation for the PFC.
 Additional information will be uploaded in the near future.
-
-# Hebrew Dataset
-
-
-
